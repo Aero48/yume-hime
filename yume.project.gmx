@@ -15,6 +15,7 @@
     <sound>sound\snd_pinch</sound>
     <sound>sound\snd_03</sound>
     <sound>sound\haydenlooptest</sound>
+    <sound>sound\mermaidpark</sound>
   </sounds>
   <sprites name="sprites">
     <sprites name="player">

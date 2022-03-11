@@ -14,6 +14,7 @@
     <sound>sound\snd_silence</sound>
     <sound>sound\snd_pinch</sound>
     <sound>sound\snd_03</sound>
+    <sound>sound\haydenlooptest</sound>
   </sounds>
   <sprites name="sprites">
     <sprites name="player">

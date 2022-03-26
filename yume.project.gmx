@@ -86,6 +86,7 @@
     <background>background\bg_shapes_world</background>
     <background>background\bg_shapes_world_layer_1</background>
     <background>background\ts_bucket_test_tiles</background>
+    <background>background\ts_rocking_horse_attic</background>
   </backgrounds>
   <paths name="paths"/>
   <shaders name="shaders">
@@ -158,6 +159,7 @@
     <room>rooms\rm_shapes_world</room>
     <room>rooms\rm_test_bucket_world</room>
     <room>rooms\rm_testdemo</room>
+    <room>rooms\rm_rocking_horse_attic</room>
   </rooms>
   <help>
     <rtf>help.rtf</rtf>

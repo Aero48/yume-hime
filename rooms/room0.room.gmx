@@ -76,7 +76,7 @@
     <instance objName="obj_down_level_wrap" x="208" y="160" name="inst_57A85964" locked="0" code="" scaleX="39" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="obj_left_level_wrap" x="832" y="176" name="inst_9218979D" locked="0" code="" scaleX="1" scaleY="26" colour="4294967295" rotation="0"/>
     <instance objName="obj_right_level_wrap" x="192" y="176" name="inst_78831CB6" locked="0" code="" scaleX="1" scaleY="26" colour="4294967295" rotation="0"/>
-    <instance objName="obj_test_npc" x="496" y="400" name="inst_3BC64402" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_test_npc" x="496" y="400" name="inst_3BC64402" locked="0" code="movement_speed = 4;&#xA;" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="obj_music_controller" x="32" y="-16" name="inst_BE9C7DC7" locked="0" code="currentsong = snd_01&#xA;" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="obj_stairs_left_bottom" x="416" y="384" name="inst_4675898A" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="obj_stairs_left_middle" x="400" y="368" name="inst_25D2983D" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>

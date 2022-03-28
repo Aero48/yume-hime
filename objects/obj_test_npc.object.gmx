@@ -29,6 +29,11 @@
 target_y = y;
 
 alarminprogress = false;
+
+min_interval = 2;
+max_interval = 6;
+
+movement_speed = 1;
 </string>
           </argument>
         </arguments>
@@ -91,23 +96,23 @@ alarminprogress = false;
             <kind>1</kind>
             <string>if (alarminprogress == false){
     direction = irandom_range(0,3); //Determines which direction the npc will travel next
-    alarm[0] = random_range(120, 360); //Sets a random time before the npc moves
+    alarm[0] = random_range(min_interval*60, max_interval*60); //Sets a random time before the npc moves
     alarminprogress = true; //Prevents the npc from constantly moving
 }
 
 //Controls the npc movement
 if((position_meeting(target_x+8,target_y+8, obj_solid)==false) &amp;&amp; (position_meeting(target_x+8,target_y+8, obj_npc_solid)==false)){
     if (x&lt;target_x){
-        x++;
+        x += movement_speed;
     }
     if (x&gt;target_x){
-        x--;
+        x -= movement_speed;
     }
     if (y&lt;target_y){
-        y++;
+        y += movement_speed;
     }
     if (y&gt;target_y){
-        y--;
+        y -= movement_speed;
     }
 }else{
     target_x = x;

@@ -6,7 +6,7 @@
   <depth>0</depth>
   <persistent>0</persistent>
   <parentName>&lt;undefined&gt;</parentName>
-  <maskName>&lt;undefined&gt;</maskName>
+  <maskName>spr_warper</maskName>
   <events>
     <event eventtype="0" enumb="0">
       <action>
@@ -101,7 +101,7 @@ alarminprogress = false;
 }
 
 //Controls the npc movement
-if((position_meeting(target_x+8,target_y+8, obj_solid)==false) &amp;&amp; (position_meeting(target_x+8,target_y+8, obj_npc_solid)==false)){
+if((position_meeting(target_x+8,target_y+8, obj_solid)==false) &amp;&amp; (position_meeting(target_x+8,target_y+8, obj_npc_solid)==false)) &amp;&amp; (position_meeting(target_x+8,target_y+8, obj_warper)==false){
     if (x&lt;target_x){
         x += movement_speed;
     }
@@ -117,6 +117,13 @@ if((position_meeting(target_x+8,target_y+8, obj_solid)==false) &amp;&amp; (posit
 }else{
     target_x = x;
     target_y = y;
+}
+
+//Determines which layer the npc appears on based on the player's location
+if (obj_player.y &gt; y) {
+    depth = 1;
+}else{
+    depth = -1;
 }
 
 

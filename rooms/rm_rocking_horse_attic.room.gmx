@@ -59,7 +59,6 @@
     <instance objName="obj_solid" x="208" y="160" name="inst_0EE77D69" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="obj_solid" x="224" y="160" name="inst_509402BC" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="obj_solid" x="240" y="160" name="inst_24052A8F" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="obj_solid" x="256" y="160" name="inst_C5AA2CAA" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="obj_solid" x="272" y="160" name="inst_3121240F" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="obj_solid" x="288" y="160" name="inst_8FF7D69A" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="obj_solid" x="304" y="176" name="inst_82467DF6" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
@@ -90,6 +89,28 @@
     <instance objName="obj_solid" x="288" y="240" name="inst_8E1A4CBE" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="obj_solid" x="272" y="240" name="inst_F44CE649" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="obj_solid" x="288" y="256" name="inst_951673A3" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_solid" x="272" y="144" name="inst_393D181A" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_solid" x="240" y="144" name="inst_D659CDF0" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_solid" x="240" y="128" name="inst_B1BAD8A2" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_solid" x="272" y="128" name="inst_6BE1DD7F" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_solid" x="224" y="128" name="inst_A7450ECD" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_solid" x="288" y="128" name="inst_529CC0E0" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_solid" x="208" y="112" name="inst_30213AE3" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_solid" x="208" y="96" name="inst_20B6A25C" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_solid" x="224" y="80" name="inst_C99A2881" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_solid" x="240" y="96" name="inst_B119F320" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_solid" x="240" y="80" name="inst_710915F4" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_solid" x="208" y="80" name="inst_87F3C822" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_solid" x="208" y="64" name="inst_C1F45CEE" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_solid" x="224" y="48" name="inst_5A436829" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_solid" x="240" y="48" name="inst_C46F803A" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_solid" x="256" y="48" name="inst_9C2582EE" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_solid" x="272" y="48" name="inst_F54AE0F3" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_solid" x="288" y="48" name="inst_66F0E193" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_solid" x="304" y="64" name="inst_5C006744" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_solid" x="304" y="80" name="inst_0F5AED50" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_solid" x="304" y="96" name="inst_C9452022" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_solid" x="304" y="112" name="inst_127BED9D" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
   </instances>
   <tiles>
     <tile bgName="ts_rocking_horse_attic" x="224" y="160" w="16" h="16" xo="32" yo="48" id="10002902" name="inst_BA5F7D97" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
@@ -111,13 +132,6 @@
     <tile bgName="ts_rocking_horse_attic" x="160" y="112" w="16" h="16" xo="32" yo="0" id="10002944" name="inst_DC1E6C88" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
     <tile bgName="ts_rocking_horse_attic" x="176" y="112" w="16" h="16" xo="32" yo="0" id="10002945" name="inst_07879F83" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
     <tile bgName="ts_rocking_horse_attic" x="192" y="112" w="16" h="16" xo="32" yo="0" id="10002946" name="inst_6487D48C" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
-    <tile bgName="ts_rocking_horse_attic" x="208" y="112" w="16" h="16" xo="32" yo="0" id="10002947" name="inst_FA38CF5A" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
-    <tile bgName="ts_rocking_horse_attic" x="224" y="112" w="16" h="16" xo="32" yo="0" id="10002948" name="inst_377DAE4B" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
-    <tile bgName="ts_rocking_horse_attic" x="240" y="112" w="16" h="16" xo="32" yo="0" id="10002949" name="inst_BECD3B2D" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
-    <tile bgName="ts_rocking_horse_attic" x="256" y="112" w="16" h="16" xo="32" yo="0" id="10002950" name="inst_C3BCF829" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
-    <tile bgName="ts_rocking_horse_attic" x="272" y="112" w="16" h="16" xo="32" yo="0" id="10002951" name="inst_871DF7E2" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
-    <tile bgName="ts_rocking_horse_attic" x="288" y="112" w="16" h="16" xo="32" yo="0" id="10002952" name="inst_519CEAAE" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
-    <tile bgName="ts_rocking_horse_attic" x="304" y="112" w="16" h="16" xo="48" yo="0" id="10002953" name="inst_A19AF282" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
     <tile bgName="ts_rocking_horse_attic" x="144" y="112" w="16" h="16" xo="0" yo="0" id="10002954" name="inst_FD99E004" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
     <tile bgName="ts_rocking_horse_attic" x="144" y="128" w="16" h="16" xo="0" yo="16" id="10002955" name="inst_D973127D" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
     <tile bgName="ts_rocking_horse_attic" x="144" y="144" w="16" h="16" xo="0" yo="16" id="10002956" name="inst_FDEEDC39" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
@@ -220,6 +234,233 @@
     <tile bgName="ts_rocking_horse_attic" x="272" y="240" w="16" h="16" xo="32" yo="80" id="10003107" name="inst_29858FB9" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
     <tile bgName="ts_rocking_horse_attic" x="288" y="240" w="16" h="16" xo="64" yo="80" id="10003109" name="inst_7DB932D5" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
     <tile bgName="ts_rocking_horse_attic" x="288" y="256" w="16" h="16" xo="48" yo="64" id="10003111" name="inst_E46928A5" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
+    <tile bgName="ts_rocking_horse_attic" x="256" y="160" w="16" h="16" xo="64" yo="32" id="10003120" name="inst_9009BE5A" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
+    <tile bgName="ts_rocking_horse_attic" x="256" y="144" w="16" h="16" xo="64" yo="32" id="10003121" name="inst_9080D721" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
+    <tile bgName="ts_rocking_horse_attic" x="256" y="128" w="16" h="16" xo="64" yo="32" id="10003122" name="inst_640DF6D9" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
+    <tile bgName="ts_rocking_horse_attic" x="304" y="96" w="16" h="16" xo="48" yo="16" id="10003138" name="inst_B7E8CCF8" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
+    <tile bgName="ts_rocking_horse_attic" x="304" y="80" w="16" h="16" xo="48" yo="16" id="10003139" name="inst_BEA0F011" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
+    <tile bgName="ts_rocking_horse_attic" x="304" y="64" w="16" h="16" xo="48" yo="16" id="10003140" name="inst_81B28087" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
+    <tile bgName="ts_rocking_horse_attic" x="304" y="48" w="16" h="16" xo="48" yo="16" id="10003141" name="inst_F2EF3CB5" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
+    <tile bgName="ts_rocking_horse_attic" x="304" y="32" w="16" h="16" xo="48" yo="16" id="10003142" name="inst_3FCA2F53" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
+    <tile bgName="ts_rocking_horse_attic" x="304" y="16" w="16" h="16" xo="48" yo="16" id="10003143" name="inst_297D13E7" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
+    <tile bgName="ts_rocking_horse_attic" x="288" y="96" w="16" h="16" xo="32" yo="64" id="10003144" name="inst_4531EEE1" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
+    <tile bgName="ts_rocking_horse_attic" x="272" y="96" w="16" h="16" xo="32" yo="64" id="10003145" name="inst_EC50410E" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
+    <tile bgName="ts_rocking_horse_attic" x="256" y="96" w="16" h="16" xo="32" yo="64" id="10003146" name="inst_CB361E4C" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
+    <tile bgName="ts_rocking_horse_attic" x="256" y="80" w="16" h="16" xo="32" yo="64" id="10003151" name="inst_BBEB9A33" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
+    <tile bgName="ts_rocking_horse_attic" x="272" y="80" w="16" h="16" xo="32" yo="64" id="10003152" name="inst_B531F3A2" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
+    <tile bgName="ts_rocking_horse_attic" x="288" y="80" w="16" h="16" xo="32" yo="64" id="10003153" name="inst_BEE1A5BC" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
+    <tile bgName="ts_rocking_horse_attic" x="288" y="64" w="16" h="16" xo="32" yo="64" id="10003154" name="inst_43C9D18D" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
+    <tile bgName="ts_rocking_horse_attic" x="272" y="64" w="16" h="16" xo="32" yo="64" id="10003155" name="inst_E05E8D1F" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
+    <tile bgName="ts_rocking_horse_attic" x="256" y="64" w="16" h="16" xo="32" yo="64" id="10003156" name="inst_1A9928DE" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
+    <tile bgName="ts_rocking_horse_attic" x="240" y="64" w="16" h="16" xo="32" yo="64" id="10003157" name="inst_21518F15" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
+    <tile bgName="ts_rocking_horse_attic" x="224" y="64" w="16" h="16" xo="32" yo="64" id="10003158" name="inst_4E27B336" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
+    <tile bgName="ts_rocking_horse_attic" x="224" y="48" w="16" h="16" xo="32" yo="32" id="10003168" name="inst_E27270FC" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
+    <tile bgName="ts_rocking_horse_attic" x="224" y="32" w="16" h="16" xo="32" yo="16" id="10003169" name="inst_4CFCA22D" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
+    <tile bgName="ts_rocking_horse_attic" x="240" y="32" w="16" h="16" xo="16" yo="16" id="10003170" name="inst_D54E9CAE" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
+    <tile bgName="ts_rocking_horse_attic" x="272" y="32" w="16" h="16" xo="16" yo="16" id="10003172" name="inst_27B15360" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
+    <tile bgName="ts_rocking_horse_attic" x="240" y="48" w="16" h="16" xo="16" yo="32" id="10003174" name="inst_633B52E6" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
+    <tile bgName="ts_rocking_horse_attic" x="256" y="48" w="16" h="16" xo="16" yo="32" id="10003175" name="inst_67F2442A" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
+    <tile bgName="ts_rocking_horse_attic" x="272" y="48" w="16" h="16" xo="16" yo="32" id="10003176" name="inst_D24D8814" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
+    <tile bgName="ts_rocking_horse_attic" x="288" y="48" w="16" h="16" xo="32" yo="32" id="10003178" name="inst_25AAD510" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
+    <tile bgName="ts_rocking_horse_attic" x="288" y="32" w="16" h="16" xo="32" yo="16" id="10003179" name="inst_F76D59EC" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
+    <tile bgName="ts_rocking_horse_attic" x="288" y="16" w="16" h="16" xo="32" yo="32" id="10003183" name="inst_486A6EFB" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
+    <tile bgName="ts_rocking_horse_attic" x="224" y="16" w="16" h="16" xo="32" yo="32" id="10003184" name="inst_2B6D743E" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
+    <tile bgName="ts_rocking_horse_attic" x="240" y="16" w="16" h="16" xo="16" yo="32" id="10003185" name="inst_21F8E0AE" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
+    <tile bgName="ts_rocking_horse_attic" x="272" y="16" w="16" h="16" xo="16" yo="32" id="10003187" name="inst_4C621D98" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
+    <tile bgName="ts_rocking_horse_attic" x="288" y="0" w="16" h="16" xo="32" yo="0" id="10003188" name="inst_524E6E7C" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
+    <tile bgName="ts_rocking_horse_attic" x="272" y="0" w="16" h="16" xo="32" yo="0" id="10003189" name="inst_EE1B4B0B" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
+    <tile bgName="ts_rocking_horse_attic" x="240" y="0" w="16" h="16" xo="32" yo="0" id="10003190" name="inst_86D08414" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
+    <tile bgName="ts_rocking_horse_attic" x="256" y="0" w="16" h="16" xo="32" yo="0" id="10003191" name="inst_9A5EE589" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
+    <tile bgName="ts_rocking_horse_attic" x="224" y="0" w="16" h="16" xo="32" yo="0" id="10003192" name="inst_7BC6D615" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
+    <tile bgName="ts_rocking_horse_attic" x="304" y="0" w="16" h="16" xo="48" yo="0" id="10003193" name="inst_120B7916" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
+    <tile bgName="ts_rocking_horse_attic" x="208" y="16" w="16" h="16" xo="0" yo="16" id="10003194" name="inst_DBED2252" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
+    <tile bgName="ts_rocking_horse_attic" x="208" y="32" w="16" h="16" xo="0" yo="16" id="10003195" name="inst_2E6F2A8B" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
+    <tile bgName="ts_rocking_horse_attic" x="208" y="48" w="16" h="16" xo="0" yo="16" id="10003196" name="inst_2685D890" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
+    <tile bgName="ts_rocking_horse_attic" x="208" y="64" w="16" h="16" xo="0" yo="16" id="10003197" name="inst_2547C5C2" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
+    <tile bgName="ts_rocking_horse_attic" x="208" y="80" w="16" h="16" xo="0" yo="16" id="10003198" name="inst_4AD74B37" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
+    <tile bgName="ts_rocking_horse_attic" x="208" y="96" w="16" h="16" xo="0" yo="16" id="10003199" name="inst_A315D650" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
+    <tile bgName="ts_rocking_horse_attic" x="208" y="0" w="16" h="16" xo="0" yo="0" id="10003201" name="inst_8BE95832" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
+    <tile bgName="ts_rocking_horse_attic" x="256" y="32" w="16" h="16" xo="16" yo="16" id="10003204" name="inst_3630D3AC" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
+    <tile bgName="ts_rocking_horse_attic" x="256" y="16" w="16" h="16" xo="0" yo="48" id="10003205" name="inst_CCD6A2CE" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
+    <tile bgName="ts_rocking_horse_attic" x="240" y="96" w="16" h="16" xo="64" yo="64" id="10003206" name="inst_BE6DF018" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
+    <tile bgName="ts_rocking_horse_attic" x="224" y="96" w="16" h="16" xo="32" yo="64" id="10003207" name="inst_87C025FA" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
+    <tile bgName="ts_rocking_horse_attic" x="224" y="80" w="16" h="16" xo="48" yo="64" id="10003209" name="inst_BF5EDE9C" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
+    <tile bgName="ts_rocking_horse_attic" x="240" y="80" w="16" h="16" xo="0" yo="64" id="10003211" name="inst_01AD4AA0" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
+    <tile bgName="ts_rocking_horse_attic" x="240" y="96" w="16" h="16" xo="16" yo="64" id="10003212" name="inst_34877B46" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
+    <tile bgName="ts_rocking_horse_attic" x="224" y="80" w="16" h="16" xo="32" yo="80" id="10003213" name="inst_4EDDD607" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
+    <tile bgName="ts_rocking_horse_attic" x="240" y="80" w="16" h="16" xo="32" yo="80" id="10003214" name="inst_079F8F19" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
+    <tile bgName="ts_rocking_horse_attic" x="432" y="224" w="16" h="16" xo="32" yo="64" id="10003219" name="inst_DBEAE4AF" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
+    <tile bgName="ts_rocking_horse_attic" x="448" y="224" w="16" h="16" xo="32" yo="64" id="10003220" name="inst_01DB80E1" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
+    <tile bgName="ts_rocking_horse_attic" x="368" y="192" w="16" h="16" xo="32" yo="64" id="10003222" name="inst_D7E5C1D4" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
+    <tile bgName="ts_rocking_horse_attic" x="368" y="176" w="16" h="16" xo="32" yo="64" id="10003223" name="inst_4CB65C33" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
+    <tile bgName="ts_rocking_horse_attic" x="368" y="128" w="16" h="16" xo="32" yo="64" id="10003226" name="inst_6416BC1E" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
+    <tile bgName="ts_rocking_horse_attic" x="384" y="128" w="16" h="16" xo="32" yo="64" id="10003227" name="inst_EC028E02" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
+    <tile bgName="ts_rocking_horse_attic" x="400" y="128" w="16" h="16" xo="32" yo="64" id="10003228" name="inst_2970E529" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
+    <tile bgName="ts_rocking_horse_attic" x="416" y="128" w="16" h="16" xo="32" yo="64" id="10003229" name="inst_F8FB037B" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
+    <tile bgName="ts_rocking_horse_attic" x="432" y="128" w="16" h="16" xo="32" yo="64" id="10003230" name="inst_DD6473D5" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
+    <tile bgName="ts_rocking_horse_attic" x="448" y="128" w="16" h="16" xo="32" yo="64" id="10003231" name="inst_F13C8B10" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
+    <tile bgName="ts_rocking_horse_attic" x="464" y="128" w="16" h="16" xo="32" yo="64" id="10003232" name="inst_14D33352" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
+    <tile bgName="ts_rocking_horse_attic" x="480" y="128" w="16" h="16" xo="32" yo="64" id="10003233" name="inst_6226D478" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
+    <tile bgName="ts_rocking_horse_attic" x="496" y="128" w="16" h="16" xo="32" yo="64" id="10003234" name="inst_B4EC9F3D" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
+    <tile bgName="ts_rocking_horse_attic" x="512" y="128" w="16" h="16" xo="32" yo="64" id="10003235" name="inst_0D7FC514" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
+    <tile bgName="ts_rocking_horse_attic" x="464" y="224" w="16" h="16" xo="32" yo="64" id="10003243" name="inst_7DD7A606" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
+    <tile bgName="ts_rocking_horse_attic" x="480" y="224" w="16" h="16" xo="32" yo="64" id="10003244" name="inst_F2AA70C4" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
+    <tile bgName="ts_rocking_horse_attic" x="496" y="224" w="16" h="16" xo="32" yo="64" id="10003245" name="inst_3CBF6ADB" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
+    <tile bgName="ts_rocking_horse_attic" x="512" y="224" w="16" h="16" xo="32" yo="64" id="10003246" name="inst_1B83DDEE" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
+    <tile bgName="ts_rocking_horse_attic" x="464" y="192" w="16" h="16" xo="96" yo="32" id="10003247" name="inst_CCC5AF74" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
+    <tile bgName="ts_rocking_horse_attic" x="496" y="192" w="16" h="16" xo="128" yo="32" id="10003249" name="inst_E2C21DBB" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
+    <tile bgName="ts_rocking_horse_attic" x="480" y="176" w="16" h="16" xo="112" yo="16" id="10003250" name="inst_E914C06A" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
+    <tile bgName="ts_rocking_horse_attic" x="448" y="192" w="16" h="16" xo="80" yo="32" id="10003255" name="inst_D8C24385" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
+    <tile bgName="ts_rocking_horse_attic" x="464" y="208" w="16" h="16" xo="32" yo="64" id="10003256" name="inst_C40526FC" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
+    <tile bgName="ts_rocking_horse_attic" x="480" y="208" w="16" h="16" xo="32" yo="64" id="10003257" name="inst_AD5F04BE" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
+    <tile bgName="ts_rocking_horse_attic" x="496" y="208" w="16" h="16" xo="32" yo="64" id="10003258" name="inst_22BC854B" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
+    <tile bgName="ts_rocking_horse_attic" x="496" y="192" w="16" h="16" xo="16" yo="64" id="10003262" name="inst_C1C60E54" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
+    <tile bgName="ts_rocking_horse_attic" x="496" y="176" w="16" h="16" xo="32" yo="64" id="10003264" name="inst_78B96A59" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
+    <tile bgName="ts_rocking_horse_attic" x="480" y="176" w="16" h="16" xo="16" yo="64" id="10003266" name="inst_6A040A50" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
+    <tile bgName="ts_rocking_horse_attic" x="480" y="192" w="16" h="16" xo="16" yo="80" id="10003268" name="inst_757E89C2" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
+    <tile bgName="ts_rocking_horse_attic" x="480" y="192" w="16" h="16" xo="112" yo="32" id="10003269" name="inst_6AC48D40" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
+    <tile bgName="ts_rocking_horse_attic" x="496" y="192" w="16" h="16" xo="32" yo="80" id="10003270" name="inst_7A33A778" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
+    <tile bgName="ts_rocking_horse_attic" x="512" y="192" w="16" h="16" xo="32" yo="64" id="10003271" name="inst_5C228A54" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
+    <tile bgName="ts_rocking_horse_attic" x="512" y="208" w="16" h="16" xo="32" yo="64" id="10003272" name="inst_9F4117C2" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
+    <tile bgName="ts_rocking_horse_attic" x="512" y="176" w="16" h="16" xo="32" yo="64" id="10003273" name="inst_4EE93E04" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
+    <tile bgName="ts_rocking_horse_attic" x="512" y="160" w="16" h="16" xo="32" yo="64" id="10003274" name="inst_62C7FC2C" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
+    <tile bgName="ts_rocking_horse_attic" x="496" y="160" w="16" h="16" xo="32" yo="64" id="10003275" name="inst_042FA173" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
+    <tile bgName="ts_rocking_horse_attic" x="512" y="144" w="16" h="16" xo="32" yo="64" id="10003276" name="inst_A9AC26C4" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
+    <tile bgName="ts_rocking_horse_attic" x="496" y="144" w="16" h="16" xo="32" yo="64" id="10003277" name="inst_B4BB98F2" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
+    <tile bgName="ts_rocking_horse_attic" x="480" y="160" w="16" h="16" xo="32" yo="64" id="10003278" name="inst_9636417F" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
+    <tile bgName="ts_rocking_horse_attic" x="464" y="160" w="16" h="16" xo="32" yo="64" id="10003280" name="inst_CBD4D9E3" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
+    <tile bgName="ts_rocking_horse_attic" x="448" y="160" w="16" h="16" xo="32" yo="64" id="10003281" name="inst_6B21C1AE" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
+    <tile bgName="ts_rocking_horse_attic" x="464" y="160" w="16" h="16" xo="96" yo="0" id="10003282" name="inst_D4FD0555" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
+    <tile bgName="ts_rocking_horse_attic" x="448" y="160" w="16" h="16" xo="80" yo="0" id="10003283" name="inst_C1EAF2A0" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
+    <tile bgName="ts_rocking_horse_attic" x="480" y="144" w="16" h="16" xo="32" yo="64" id="10003284" name="inst_4EAA6A6A" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
+    <tile bgName="ts_rocking_horse_attic" x="448" y="144" w="16" h="16" xo="32" yo="64" id="10003285" name="inst_BFCFA2D6" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
+    <tile bgName="ts_rocking_horse_attic" x="464" y="144" w="16" h="16" xo="32" yo="64" id="10003286" name="inst_BAFE6FAD" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
+    <tile bgName="ts_rocking_horse_attic" x="432" y="144" w="16" h="16" xo="32" yo="64" id="10003287" name="inst_4BEE4BF2" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
+    <tile bgName="ts_rocking_horse_attic" x="432" y="160" w="16" h="16" xo="32" yo="64" id="10003288" name="inst_D1B908F2" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
+    <tile bgName="ts_rocking_horse_attic" x="448" y="192" w="16" h="16" xo="64" yo="64" id="10003290" name="inst_922BA904" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
+    <tile bgName="ts_rocking_horse_attic" x="432" y="192" w="16" h="16" xo="32" yo="64" id="10003291" name="inst_02B9216A" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
+    <tile bgName="ts_rocking_horse_attic" x="448" y="208" w="16" h="16" xo="32" yo="64" id="10003292" name="inst_F83F1571" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
+    <tile bgName="ts_rocking_horse_attic" x="432" y="208" w="16" h="16" xo="32" yo="64" id="10003293" name="inst_37761E44" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
+    <tile bgName="ts_rocking_horse_attic" x="432" y="176" w="16" h="16" xo="48" yo="64" id="10003294" name="inst_B8BC767A" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
+    <tile bgName="ts_rocking_horse_attic" x="416" y="176" w="16" h="16" xo="32" yo="64" id="10003295" name="inst_90F9996B" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
+    <tile bgName="ts_rocking_horse_attic" x="416" y="192" w="16" h="16" xo="32" yo="64" id="10003296" name="inst_AD6E7A5F" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
+    <tile bgName="ts_rocking_horse_attic" x="416" y="160" w="16" h="16" xo="32" yo="64" id="10003297" name="inst_FED5A1A6" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
+    <tile bgName="ts_rocking_horse_attic" x="416" y="144" w="16" h="16" xo="32" yo="64" id="10003298" name="inst_D405A12E" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
+    <tile bgName="ts_rocking_horse_attic" x="400" y="144" w="16" h="16" xo="32" yo="64" id="10003299" name="inst_BD34CFFC" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
+    <tile bgName="ts_rocking_horse_attic" x="400" y="160" w="16" h="16" xo="32" yo="64" id="10003300" name="inst_0B4CADDF" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
+    <tile bgName="ts_rocking_horse_attic" x="400" y="176" w="16" h="16" xo="32" yo="64" id="10003301" name="inst_F7D7862E" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
+    <tile bgName="ts_rocking_horse_attic" x="400" y="192" w="16" h="16" xo="32" yo="64" id="10003302" name="inst_A4C6A47C" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
+    <tile bgName="ts_rocking_horse_attic" x="384" y="160" w="16" h="16" xo="32" yo="64" id="10003304" name="inst_6A449F40" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
+    <tile bgName="ts_rocking_horse_attic" x="384" y="176" w="16" h="16" xo="32" yo="64" id="10003305" name="inst_E9AF5A14" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
+    <tile bgName="ts_rocking_horse_attic" x="384" y="192" w="16" h="16" xo="32" yo="64" id="10003306" name="inst_A7F18D71" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
+    <tile bgName="ts_rocking_horse_attic" x="368" y="208" w="16" h="16" xo="64" yo="48" id="10003312" name="inst_FCC18E35" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
+    <tile bgName="ts_rocking_horse_attic" x="384" y="208" w="16" h="16" xo="64" yo="48" id="10003313" name="inst_0FC5A3DD" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
+    <tile bgName="ts_rocking_horse_attic" x="400" y="208" w="16" h="16" xo="64" yo="48" id="10003314" name="inst_C416A55A" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
+    <tile bgName="ts_rocking_horse_attic" x="416" y="208" w="16" h="16" xo="0" yo="16" id="10003315" name="inst_E5A4627B" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
+    <tile bgName="ts_rocking_horse_attic" x="416" y="224" w="16" h="16" xo="0" yo="16" id="10003316" name="inst_B6084854" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
+    <tile bgName="ts_rocking_horse_attic" x="416" y="208" w="16" h="16" xo="64" yo="48" id="10003317" name="inst_18D903B3" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
+    <tile bgName="ts_rocking_horse_attic" x="432" y="240" w="16" h="16" xo="64" yo="48" id="10003318" name="inst_1AC2D7B9" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
+    <tile bgName="ts_rocking_horse_attic" x="448" y="240" w="16" h="16" xo="64" yo="48" id="10003319" name="inst_FE294F28" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
+    <tile bgName="ts_rocking_horse_attic" x="464" y="240" w="16" h="16" xo="64" yo="48" id="10003320" name="inst_F96EA68C" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
+    <tile bgName="ts_rocking_horse_attic" x="480" y="240" w="16" h="16" xo="64" yo="48" id="10003321" name="inst_C97BD3FC" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
+    <tile bgName="ts_rocking_horse_attic" x="496" y="240" w="16" h="16" xo="64" yo="48" id="10003322" name="inst_28BD5F9F" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
+    <tile bgName="ts_rocking_horse_attic" x="512" y="240" w="16" h="16" xo="64" yo="48" id="10003323" name="inst_E067D61E" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
+    <tile bgName="ts_rocking_horse_attic" x="528" y="224" w="16" h="16" xo="48" yo="16" id="10003324" name="inst_BE51C52A" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
+    <tile bgName="ts_rocking_horse_attic" x="528" y="208" w="16" h="16" xo="48" yo="16" id="10003325" name="inst_48450A70" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
+    <tile bgName="ts_rocking_horse_attic" x="528" y="192" w="16" h="16" xo="48" yo="16" id="10003326" name="inst_5019800D" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
+    <tile bgName="ts_rocking_horse_attic" x="528" y="176" w="16" h="16" xo="48" yo="16" id="10003327" name="inst_897DBBBE" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
+    <tile bgName="ts_rocking_horse_attic" x="528" y="160" w="16" h="16" xo="48" yo="16" id="10003328" name="inst_9748DA9F" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
+    <tile bgName="ts_rocking_horse_attic" x="528" y="144" w="16" h="16" xo="48" yo="16" id="10003329" name="inst_29945AC2" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
+    <tile bgName="ts_rocking_horse_attic" x="528" y="128" w="16" h="16" xo="48" yo="16" id="10003330" name="inst_9D780EF7" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
+    <tile bgName="ts_rocking_horse_attic" x="352" y="128" w="16" h="16" xo="0" yo="16" id="10003343" name="inst_54E50FC2" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
+    <tile bgName="ts_rocking_horse_attic" x="352" y="144" w="16" h="16" xo="0" yo="16" id="10003344" name="inst_61B0B3B1" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
+    <tile bgName="ts_rocking_horse_attic" x="352" y="160" w="16" h="16" xo="0" yo="16" id="10003345" name="inst_C05F6F6F" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
+    <tile bgName="ts_rocking_horse_attic" x="352" y="176" w="16" h="16" xo="0" yo="16" id="10003346" name="inst_7A7FE251" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
+    <tile bgName="ts_rocking_horse_attic" x="352" y="192" w="16" h="16" xo="0" yo="16" id="10003347" name="inst_2C7EC081" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
+    <tile bgName="ts_rocking_horse_attic" x="352" y="208" w="16" h="16" xo="48" yo="48" id="10003348" name="inst_A72283D0" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
+    <tile bgName="ts_rocking_horse_attic" x="416" y="240" w="16" h="16" xo="48" yo="48" id="10003349" name="inst_46AB2778" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
+    <tile bgName="ts_rocking_horse_attic" x="528" y="240" w="16" h="16" xo="80" yo="48" id="10003350" name="inst_8EB23D86" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
+    <tile bgName="ts_rocking_horse_attic" x="384" y="144" w="16" h="16" xo="16" yo="64" id="10003351" name="inst_A9BF02A5" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
+    <tile bgName="ts_rocking_horse_attic" x="368" y="160" w="16" h="16" xo="48" yo="64" id="10003352" name="inst_4BBA36EF" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
+    <tile bgName="ts_rocking_horse_attic" x="368" y="144" w="16" h="16" xo="64" yo="64" id="10003353" name="inst_643F62D0" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
+    <tile bgName="ts_rocking_horse_attic" x="384" y="112" w="16" h="16" xo="32" yo="32" id="10003385" name="inst_5990EF19" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
+    <tile bgName="ts_rocking_horse_attic" x="480" y="112" w="16" h="16" xo="32" yo="32" id="10003387" name="inst_D00CCE60" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
+    <tile bgName="ts_rocking_horse_attic" x="480" y="96" w="16" h="16" xo="32" yo="16" id="10003389" name="inst_D4FAF503" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
+    <tile bgName="ts_rocking_horse_attic" x="384" y="96" w="16" h="16" xo="32" yo="16" id="10003390" name="inst_6632D6B3" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
+    <tile bgName="ts_rocking_horse_attic" x="400" y="96" w="16" h="16" xo="16" yo="16" id="10003391" name="inst_EE4FA7F0" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
+    <tile bgName="ts_rocking_horse_attic" x="416" y="96" w="16" h="16" xo="16" yo="16" id="10003392" name="inst_5B0128FE" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
+    <tile bgName="ts_rocking_horse_attic" x="432" y="96" w="16" h="16" xo="16" yo="16" id="10003393" name="inst_ADA2295E" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
+    <tile bgName="ts_rocking_horse_attic" x="464" y="96" w="16" h="16" xo="16" yo="16" id="10003394" name="inst_F677DFE7" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
+    <tile bgName="ts_rocking_horse_attic" x="448" y="96" w="16" h="16" xo="16" yo="16" id="10003395" name="inst_8881CF16" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
+    <tile bgName="ts_rocking_horse_attic" x="496" y="96" w="16" h="16" xo="16" yo="16" id="10003396" name="inst_3D3E54EE" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
+    <tile bgName="ts_rocking_horse_attic" x="512" y="96" w="16" h="16" xo="16" yo="16" id="10003397" name="inst_0592B896" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
+    <tile bgName="ts_rocking_horse_attic" x="368" y="96" w="16" h="16" xo="16" yo="16" id="10003398" name="inst_FF1F17A0" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
+    <tile bgName="ts_rocking_horse_attic" x="384" y="80" w="16" h="16" xo="32" yo="32" id="10003400" name="inst_0E85EEDE" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
+    <tile bgName="ts_rocking_horse_attic" x="480" y="80" w="16" h="16" xo="32" yo="32" id="10003401" name="inst_E0E0ECE1" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
+    <tile bgName="ts_rocking_horse_attic" x="368" y="112" w="16" h="16" xo="16" yo="32" id="10003402" name="inst_1B0CD98D" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
+    <tile bgName="ts_rocking_horse_attic" x="400" y="112" w="16" h="16" xo="16" yo="32" id="10003403" name="inst_E15B877F" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
+    <tile bgName="ts_rocking_horse_attic" x="416" y="112" w="16" h="16" xo="16" yo="32" id="10003404" name="inst_A6324836" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
+    <tile bgName="ts_rocking_horse_attic" x="432" y="112" w="16" h="16" xo="16" yo="32" id="10003405" name="inst_C256E491" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
+    <tile bgName="ts_rocking_horse_attic" x="448" y="112" w="16" h="16" xo="16" yo="32" id="10003406" name="inst_9F7A02CA" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
+    <tile bgName="ts_rocking_horse_attic" x="464" y="112" w="16" h="16" xo="16" yo="32" id="10003408" name="inst_970E463E" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
+    <tile bgName="ts_rocking_horse_attic" x="496" y="112" w="16" h="16" xo="16" yo="32" id="10003409" name="inst_B0D7E81E" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
+    <tile bgName="ts_rocking_horse_attic" x="512" y="112" w="16" h="16" xo="16" yo="32" id="10003410" name="inst_0E097AA2" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
+    <tile bgName="ts_rocking_horse_attic" x="368" y="80" w="16" h="16" xo="16" yo="32" id="10003411" name="inst_3AF18E64" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
+    <tile bgName="ts_rocking_horse_attic" x="416" y="80" w="16" h="16" xo="16" yo="32" id="10003412" name="inst_669EF846" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
+    <tile bgName="ts_rocking_horse_attic" x="400" y="80" w="16" h="16" xo="16" yo="32" id="10003413" name="inst_112E0721" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
+    <tile bgName="ts_rocking_horse_attic" x="432" y="80" w="16" h="16" xo="16" yo="32" id="10003414" name="inst_6ED5695D" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
+    <tile bgName="ts_rocking_horse_attic" x="448" y="80" w="16" h="16" xo="16" yo="32" id="10003415" name="inst_C2D38FDD" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
+    <tile bgName="ts_rocking_horse_attic" x="464" y="80" w="16" h="16" xo="16" yo="32" id="10003416" name="inst_7A090A24" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
+    <tile bgName="ts_rocking_horse_attic" x="496" y="80" w="16" h="16" xo="16" yo="32" id="10003417" name="inst_115536AA" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
+    <tile bgName="ts_rocking_horse_attic" x="512" y="80" w="16" h="16" xo="16" yo="32" id="10003418" name="inst_7C26983B" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
+    <tile bgName="ts_rocking_horse_attic" x="368" y="64" w="16" h="16" xo="32" yo="0" id="10003419" name="inst_A155EC0E" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
+    <tile bgName="ts_rocking_horse_attic" x="384" y="64" w="16" h="16" xo="32" yo="0" id="10003420" name="inst_9C9D8710" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
+    <tile bgName="ts_rocking_horse_attic" x="400" y="64" w="16" h="16" xo="32" yo="0" id="10003421" name="inst_821920AD" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
+    <tile bgName="ts_rocking_horse_attic" x="416" y="64" w="16" h="16" xo="32" yo="0" id="10003422" name="inst_1A78B0FD" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
+    <tile bgName="ts_rocking_horse_attic" x="432" y="64" w="16" h="16" xo="32" yo="0" id="10003423" name="inst_F13C106F" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
+    <tile bgName="ts_rocking_horse_attic" x="448" y="64" w="16" h="16" xo="32" yo="0" id="10003424" name="inst_FB1CD1DF" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
+    <tile bgName="ts_rocking_horse_attic" x="464" y="64" w="16" h="16" xo="32" yo="0" id="10003425" name="inst_E7C11582" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
+    <tile bgName="ts_rocking_horse_attic" x="480" y="64" w="16" h="16" xo="32" yo="0" id="10003426" name="inst_4345E228" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
+    <tile bgName="ts_rocking_horse_attic" x="496" y="64" w="16" h="16" xo="32" yo="0" id="10003427" name="inst_16DDF507" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
+    <tile bgName="ts_rocking_horse_attic" x="512" y="64" w="16" h="16" xo="32" yo="0" id="10003428" name="inst_9ECC9D2F" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
+    <tile bgName="ts_rocking_horse_attic" x="528" y="64" w="16" h="16" xo="48" yo="0" id="10003429" name="inst_A111C4D3" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
+    <tile bgName="ts_rocking_horse_attic" x="352" y="64" w="16" h="16" xo="0" yo="0" id="10003430" name="inst_12DC986B" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
+    <tile bgName="ts_rocking_horse_attic" x="352" y="80" w="16" h="16" xo="0" yo="16" id="10003431" name="inst_A7C9F47F" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
+    <tile bgName="ts_rocking_horse_attic" x="352" y="96" w="16" h="16" xo="0" yo="16" id="10003432" name="inst_04DABE29" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
+    <tile bgName="ts_rocking_horse_attic" x="352" y="112" w="16" h="16" xo="0" yo="16" id="10003433" name="inst_B1E3BC2B" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
+    <tile bgName="ts_rocking_horse_attic" x="528" y="80" w="16" h="16" xo="48" yo="16" id="10003434" name="inst_2CCB5F99" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
+    <tile bgName="ts_rocking_horse_attic" x="528" y="96" w="16" h="16" xo="48" yo="16" id="10003435" name="inst_45CB6591" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
+    <tile bgName="ts_rocking_horse_attic" x="528" y="112" w="16" h="16" xo="48" yo="16" id="10003436" name="inst_F9025B2A" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
+    <tile bgName="ts_rocking_horse_attic" x="432" y="176" w="16" h="16" xo="32" yo="80" id="10003437" name="inst_178E437A" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
+    <tile bgName="ts_rocking_horse_attic" x="480" y="176" w="16" h="16" xo="32" yo="80" id="10003440" name="inst_F3C5EC1B" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
+    <tile bgName="ts_rocking_horse_attic" x="448" y="176" w="16" h="16" xo="32" yo="80" id="10003441" name="inst_0BD5E354" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
+    <tile bgName="ts_rocking_horse_attic" x="464" y="176" w="16" h="16" xo="32" yo="80" id="10003442" name="inst_69AEC68C" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
+    <tile bgName="ts_rocking_horse_attic" x="448" y="176" w="16" h="16" xo="80" yo="16" id="10003443" name="inst_6E2B8950" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
+    <tile bgName="ts_rocking_horse_attic" x="464" y="176" w="16" h="16" xo="96" yo="16" id="10003444" name="inst_A5BA97AA" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
+    <tile bgName="ts_rocking_horse_attic" x="368" y="160" w="16" h="16" xo="0" yo="64" id="10003445" name="inst_7F7812DE" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
+    <tile bgName="ts_rocking_horse_attic" x="368" y="144" w="16" h="16" xo="32" yo="80" id="10003446" name="inst_CBDA1B53" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
+    <tile bgName="ts_rocking_horse_attic" x="384" y="144" w="16" h="16" xo="32" yo="80" id="10003447" name="inst_12FAE99B" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
+    <tile bgName="ts_rocking_horse_attic" x="432" y="112" w="16" h="16" xo="64" yo="32" id="10003448" name="inst_E88CC467" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
+    <tile bgName="ts_rocking_horse_attic" x="432" y="96" w="16" h="16" xo="64" yo="32" id="10003449" name="inst_3B001627" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
+    <tile bgName="ts_rocking_horse_attic" x="432" y="80" w="16" h="16" xo="64" yo="32" id="10003450" name="inst_B4E12B29" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
+    <tile bgName="ts_rocking_horse_attic" x="432" y="64" w="16" h="16" xo="64" yo="16" id="10003451" name="inst_1DC0DBB6" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
+    <tile bgName="ts_rocking_horse_attic" x="208" y="112" w="16" h="16" xo="32" yo="0" id="10003452" name="inst_22F14791" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
+    <tile bgName="ts_rocking_horse_attic" x="224" y="112" w="16" h="16" xo="32" yo="0" id="10003453" name="inst_D726EF43" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
+    <tile bgName="ts_rocking_horse_attic" x="240" y="112" w="16" h="16" xo="32" yo="0" id="10003454" name="inst_1F0DCDAA" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
+    <tile bgName="ts_rocking_horse_attic" x="256" y="112" w="16" h="16" xo="32" yo="0" id="10003455" name="inst_DBDA3EA9" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
+    <tile bgName="ts_rocking_horse_attic" x="272" y="112" w="16" h="16" xo="32" yo="0" id="10003456" name="inst_B3C1354B" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
+    <tile bgName="ts_rocking_horse_attic" x="288" y="112" w="16" h="16" xo="32" yo="0" id="10003457" name="inst_EB7FF3A2" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
+    <tile bgName="ts_rocking_horse_attic" x="304" y="112" w="16" h="16" xo="48" yo="0" id="10003458" name="inst_51DA5B77" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
+    <tile bgName="ts_rocking_horse_attic" x="256" y="96" w="16" h="16" xo="64" yo="16" id="10003461" name="inst_842BAE71" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
+    <tile bgName="ts_rocking_horse_attic" x="224" y="112" w="16" h="16" xo="32" yo="80" id="10003462" name="inst_694424E8" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
+    <tile bgName="ts_rocking_horse_attic" x="272" y="112" w="16" h="16" xo="32" yo="80" id="10003463" name="inst_AF061202" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
+    <tile bgName="ts_rocking_horse_attic" x="288" y="112" w="16" h="16" xo="32" yo="80" id="10003464" name="inst_F8EB9D42" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
+    <tile bgName="ts_rocking_horse_attic" x="240" y="112" w="16" h="16" xo="16" yo="80" id="10003466" name="inst_66267C3B" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
+    <tile bgName="ts_rocking_horse_attic" x="256" y="112" w="16" h="16" xo="32" yo="80" id="10003467" name="inst_6C767D05" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
+    <tile bgName="ts_rocking_horse_attic" x="208" y="112" w="16" h="16" xo="48" yo="48" id="10003468" name="inst_852F0668" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
+    <tile bgName="ts_rocking_horse_attic" x="304" y="112" w="16" h="16" xo="80" yo="48" id="10003469" name="inst_8483A749" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
+    <tile bgName="ts_rocking_horse_attic" x="240" y="112" w="16" h="16" xo="64" yo="80" id="10003470" name="inst_07925302" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
+    <tile bgName="ts_rocking_horse_attic" x="256" y="112" w="16" h="16" xo="64" yo="32" id="10003471" name="inst_61C9B09C" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
   </tiles>
   <PhysicsWorld>0</PhysicsWorld>
   <PhysicsWorldTop>0</PhysicsWorldTop>

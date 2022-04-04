@@ -304,6 +304,8 @@ if(!keyboard_check(vk_anykey)){
     one_pressed=false;
 }
 
+depth = round((y-8)/16) * -1;
+
 
 </string>
           </argument>

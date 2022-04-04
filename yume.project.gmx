@@ -61,7 +61,10 @@
       <sprite>sprites\spr_glass_door</sprite>
     </sprites>
     <sprites name="npcs">
-      <sprite>sprites\spr_boggle</sprite>
+      <sprites name="boggle">
+        <sprite>sprites\spr_boggle_right</sprite>
+        <sprite>sprites\spr_boggle_left</sprite>
+      </sprites>
     </sprites>
     <sprites name="tests">
       <sprite>sprites\spr_interaction_box</sprite>

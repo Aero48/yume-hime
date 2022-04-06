@@ -50,6 +50,7 @@
       <sprite>sprites\spr_testtile</sprite>
       <sprite>sprites\spr_warper</sprite>
       <sprite>sprites\spr_testtile2</sprite>
+      <sprite>sprites\spr_testtile3</sprite>
     </sprites>
     <sprites name="bedroom">
       <sprite>sprites\spr_bed</sprite>
@@ -96,6 +97,7 @@
     <background>background\bg_shapes_world_layer_1</background>
     <background>background\ts_bucket_test_tiles</background>
     <background>background\ts_rocking_horse_attic</background>
+    <background>background\ts_shadow_puppet</background>
   </backgrounds>
   <paths name="paths"/>
   <shaders name="shaders">
@@ -130,6 +132,7 @@
       <object>objects\obj_stairs_right_bottom</object>
       <object>objects\obj_stairs_right_middle</object>
       <object>objects\obj_stairs_right_top</object>
+      <object>objects\obj_stair_solid</object>
     </objects>
     <objects name="npcs">
       <object>objects\obj_npc</object>
@@ -169,6 +172,7 @@
     <room>rooms\rm_test_bucket_world</room>
     <room>rooms\rm_testdemo</room>
     <room>rooms\rm_rocking_horse_attic</room>
+    <room>rooms\rm_shadow_puppet</room>
   </rooms>
   <help>
     <rtf>help.rtf</rtf>

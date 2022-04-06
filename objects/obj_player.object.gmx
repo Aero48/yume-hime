@@ -269,7 +269,7 @@ if (canMove){
         }
         hFacing = 0;
         vFacing = -1;
-        if(position_meeting(x,y-16,obj_solid) == false &amp;&amp; position_meeting(x,y-16,obj_npc) == false){
+        if(position_meeting(x,y-16,obj_solid) == false &amp;&amp; position_meeting(x,y-16,obj_npc) == false &amp;&amp; position_meeting(x,y-16,obj_stair_solid) == false){
             moving = true;
             target_y -= 16;
             if(effect=1){
@@ -288,7 +288,7 @@ if (canMove){
         }
         hFacing = 0;
         vFacing = 1;
-        if(position_meeting(x,y+16,obj_solid) == false &amp;&amp; position_meeting(x,y+16,obj_npc) == false){
+        if(position_meeting(x,y+16,obj_solid) == false &amp;&amp; position_meeting(x,y+16,obj_npc) == false &amp;&amp; position_meeting(x,y+16,obj_stair_solid) == false){
             moving = true;
             target_y +=16;
             if(effect=1){

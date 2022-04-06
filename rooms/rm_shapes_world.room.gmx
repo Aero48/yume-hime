@@ -52,7 +52,7 @@
   </views>
   <instances>
     <instance objName="obj_music_controller" x="32" y="-16" name="inst_9B3ECC0E" locked="0" code="currentsong = snd_01" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="obj_collide_warp" x="608" y="592" name="inst_4A1ABBF9" locked="0" code="targetRoom = rm_nexus;&#xA;targetX = 528;&#xA;targetY = 192;&#xA;type = 0;&#xA;" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_collide_warp" x="608" y="592" name="inst_4A1ABBF9" locked="0" code="targetRoom = rm_nexus;&#xA;targetX = 528;&#xA;targetY = 192;&#xA;type = 0;" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="obj_roominit" x="0" y="-16" name="inst_913EA015" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="obj_solid" x="576" y="592" name="inst_59084AE1" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="obj_solid" x="592" y="592" name="inst_D110C090" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>

@@ -220,7 +220,6 @@
     <tile bgName="ts_nexus" x="912" y="160" w="16" h="16" xo="16" yo="0" id="10002009" name="inst_72318574" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
     <tile bgName="ts_nexus" x="0" y="192" w="16" h="16" xo="0" yo="32" id="10002010" name="inst_E7F2255A" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
     <tile bgName="ts_nexus" x="928" y="192" w="16" h="16" xo="0" yo="32" id="10002011" name="inst_CB6BB728" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
-    <tile bgName="ts_nexus" x="528" y="144" w="16" h="16" xo="32" yo="0" id="10002647" name="inst_E5BE3EA0" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
   </tiles>
   <PhysicsWorld>0</PhysicsWorld>
   <PhysicsWorldTop>0</PhysicsWorldTop>

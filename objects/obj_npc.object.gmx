@@ -35,8 +35,12 @@ min_interval = 2;
 max_interval = 6;
 
 movement_speed = 1;
+npc_facing = "down";
 
-sprite = "boggle";
+sprite = "yuri";
+npc_anim_speed = 0.12;
+anim_always = false;
+
 </string>
           </argument>
         </arguments>
@@ -60,16 +64,16 @@ sprite = "boggle";
           <argument>
             <kind>1</kind>
             <string>//Based on the instructed direction, the npc's target will be set
-if(direction == 0 &amp;&amp; (position_meeting(x+8,(y-16)+8, obj_test_npc)==false)){
+if(direction == 0 &amp;&amp; (position_meeting(x+8,(y-16)+8, obj_npc)==false)){
     target_y = y-16;
 }
-if(direction == 1 &amp;&amp; (position_meeting((x+16)+8,y+8, obj_test_npc)==false)){
+if(direction == 1 &amp;&amp; (position_meeting((x+16)+8,y+8, obj_npc)==false)){
     target_x = x+16;
 }
-if(direction == 2 &amp;&amp; (position_meeting(x+8,(y+16)+8, obj_test_npc)==false)){
+if(direction == 2 &amp;&amp; (position_meeting(x+8,(y+16)+8, obj_npc)==false)){
     target_y = y+16;
 }
-if(direction == 3 &amp;&amp; (position_meeting((x-16)+8,y+8, obj_test_npc)==false)){
+if(direction == 3 &amp;&amp; (position_meeting((x-16)+8,y+8, obj_npc)==false)){
     target_x = x-16;
 }
 
@@ -106,21 +110,22 @@ movementinprogress = true; //Prevents the npc from changing direction mid-moveme
 
 //Controls the npc movement
 if((position_meeting(target_x+8,target_y+8, obj_solid)==false) &amp;&amp; (position_meeting(target_x+8,target_y+8, obj_npc_solid)==false) &amp;&amp; (position_meeting(target_x+8,target_y+8, obj_warper)==false)){
+    image_speed = npc_anim_speed * movement_speed;
     if (x&lt;target_x){
         x += movement_speed;
-        sprite_index = asset_get_index("spr_" + sprite + "_right");
-        //sprite_index = asset_get_index(sprite);
+        npc_facing = "right";
     }
     if (x&gt;target_x){
         x -= movement_speed;
-        sprite_index = asset_get_index("spr_" + sprite + "_left");
-        //sprite_index = asset_get_index(sprite);
+        npc_facing = "left";
     }
     if (y&lt;target_y){
         y += movement_speed;
+        npc_facing = "down";
     }
     if (y&gt;target_y){
         y -= movement_speed;
+        npc_facing = "up";
     }
 }else{
     target_x = round(x/16)*16;
@@ -129,14 +134,17 @@ if((position_meeting(target_x+8,target_y+8, obj_solid)==false) &amp;&amp; (posit
 
 if (target_x == x &amp;&amp; target_y == y){
     movementinprogress = false;
+    if (anim_always == false){
+        image_speed = 0;
+        image_index = 1;
+    }
+    
 }
 
-//Determines which layer the npc appears on based on the player's location
-//if (obj_player.y &gt; y) {
-//    depth = 1;
-//}else{
-//    depth = -1;
-//}
+//Determines the sprite
+if (sprite_exists(asset_get_index("spr_" + sprite + "_" + npc_facing))){
+    sprite_index = asset_get_index("spr_" + sprite + "_" + npc_facing);
+}
 
 //Determines which layer the npc appears on based on its y value
 depth = round(y/16) * -1;

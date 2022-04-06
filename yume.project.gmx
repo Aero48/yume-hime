@@ -65,6 +65,12 @@
         <sprite>sprites\spr_boggle_right</sprite>
         <sprite>sprites\spr_boggle_left</sprite>
       </sprites>
+      <sprites name="yuri">
+        <sprite>sprites\spr_yuri_up</sprite>
+        <sprite>sprites\spr_yuri_down</sprite>
+        <sprite>sprites\spr_yuri_left</sprite>
+        <sprite>sprites\spr_yuri_right</sprite>
+      </sprites>
     </sprites>
     <sprites name="tests">
       <sprite>sprites\spr_interaction_box</sprite>
@@ -126,7 +132,7 @@
       <object>objects\obj_stairs_right_top</object>
     </objects>
     <objects name="npcs">
-      <object>objects\obj_test_npc</object>
+      <object>objects\obj_npc</object>
     </objects>
     <objects name="transitions">
       <object>objects\obj_pixelate</object>
